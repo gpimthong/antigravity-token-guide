@@ -12,7 +12,9 @@ An interactive visual guide explaining how AI tokens work, agentic context compo
 
 ## 🚀 Live Demo & Local Usage
 
-Open [`index.html`](index.html) directly in any modern browser:
+🔗 **Live Website:** [https://gpimthong.github.io/antigravity-token-guide/](https://gpimthong.github.io/antigravity-token-guide/)
+
+Or open [`index.html`](index.html) directly in any modern browser:
 
 ```bash
 # On macOS:
